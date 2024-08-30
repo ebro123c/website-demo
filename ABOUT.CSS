@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.main{
+    width: 100%;
+    background: rgba(0,0,0,0.5)url(about\ us\ 2\ img.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode: darken;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    width: 250px;
+    height: 50px;
+    top: 15px;
+    margin-left: 70px;
+    color: orangered;
+    background-color:white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+    
+    
+}
+.content .ctn{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-size: 20px;
+    position: absolute;
+    top: 72px;
+    
+
+   
+  
+    
+}
+.content h1{
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-bottom: 5px;   
+
+}
+.content .NNN{
+    color: transparent;
+    
+    
+}
+.btn{
+    margin-bottom: 200px;
+    margin-left: 1200PX;
+   
+}
+.back{
+   left: 1200px;
+   top: 15px;
+   width: 80px;
+   height: 15px;
+   padding: 10px;
+   background-color: white;
+   
+   text-align: center;
+   border-radius: 20px;
+   position: absolute;
+   cursor: pointer;
+   transition: ease-in-out 0.3s;
+}
+.back a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    transition: ease-in-out 0.3s;
+}
+.back:hover{
+    background-color: orangered;
+}
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.main{
+    width: 100%;
+    background: rgba(0,0,0,0.5)url(service\ we\ provide.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode: darken;
+}
+.icon{
+    width: 200px;
+
+    height: 70px;
+}
+.logo{
+    position: absolute;
+    padding: 10px;
+    color: orangered;
+    width: 390px;
+    height: 40px;
+    border-radius: 20px;
+    top: 10px;
+    margin-left: 30px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.btn{
+    position: absolute;
+    left: 1250px;
+    top: 20px;
+    width: 80px;
+    height: 30PX;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20PX;
+    border: none;
+    cursor: pointer;
+    transition: ease-in-out 0.3s;
+
+
+} 
+.btn:hover{
+    background-color: orangered;
+}
+.content{
+    color: white;
+    position: absolute;
+    top: 210px;
+    left: 1050px;
+    width: 260px;
+    height: 270px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+
+
+
+}
+.one{
+    font-size: 30px;
+    color: orangered;
+    margin: 10px;
+    width: 240px;
+    height: 40px;
+    background-color: black;
+    border-radius: 20px;
+    
+}
+.audit{
+    margin: 25px;
+    font-size: 20px;
+    text-align: left;
+}
+.audit br{
+    margin: 20px;
+}
+.atn{
+    color: white;
+    position: absolute;
+    top: 210px;
+    left: 750px;
+    width: 260px;
+    height: 270px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+  
+
+}
+.atrn{
+    font-size: 30px;
+    color: orangered;
+    margin: 10px;
+    width: 240px;
+    height: 40px;
+    background-color: black;
+    border-radius: 20px;
+}
+.acc{
+    margin: 20px;
+    font-size: 20px;
+    text-align: left;
+   
+}
+.com{
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    width: 260px;
+    height: 270px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+.comm{
+    font-size: 30px;
+    color: orangered;
+    width: 240px;
+    height: 100px;
+    background-color: black;
+    border-radius: 20px;
+}
+.commm{
+    margin: 15px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+.tax{
+    color: white;
+    position: absolute;
+    top: 210px;
+    left: 100px;
+    width: 260px;
+    height: 270px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+  
+}
+.taxx{
+    font-size: 30px;
+    color: orangered;
+    width: 240px;
+    height: 80px;
+    background-color: black;
+    border-radius: 20px;
+}
+.taxxx{
+    margin: 20px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+
+
+
